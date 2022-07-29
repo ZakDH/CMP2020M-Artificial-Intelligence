@@ -1,0 +1,9 @@
+﻿  dijkstra.cpp
+C:\Users\zharg\Google Drive\University\Year 2\Artificial Intelligence\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\dijkstra.cpp(154,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zharg\Google Drive\University\Year 2\Artificial Intelligence\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\dijkstra.cpp(296,29): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\zharg\Google Drive\University\Year 2\Artificial Intelligence\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\dijkstra.cpp(296,66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\zharg\Google Drive\University\Year 2\Artificial Intelligence\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\dijkstra.cpp(438,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  level.cpp
+  main.cpp
+  Generating Code...
+  PathFinderCpp.vcxproj -> C:\Users\zharg\Google Drive\University\Year 2\Artificial Intelligence\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\Debug\PathFinderCpp.exe

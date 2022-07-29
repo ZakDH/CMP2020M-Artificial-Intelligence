@@ -1,0 +1,4 @@
+C:\Users\zharg\Desktop\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\Debug\PathFinderCpp.exe
+C:\Users\zharg\Desktop\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\Debug\PathFinderCpp.pdb
+C:\Users\zharg\Google Drive\University\Year 2\Artificial Intelligence\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\Debug\PathFinderCpp.exe
+C:\Users\zharg\Google Drive\University\Year 2\Artificial Intelligence\Assignment 2\PathFinderCpp-WorkshopStart-VS2019SDL2.0-2021\PathFinderCpp\Debug\PathFinderCpp.pdb
